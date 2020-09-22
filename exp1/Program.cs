@@ -13,8 +13,8 @@ namespace exp1
 
             Console.WriteLine("adding= {0}", (a + b));
             Console.WriteLine("subtracting= {0}", (a - b));
-            Console.WriteLine("mul= {0}", (a + b));
-            Console.WriteLine("div= {0}", (a - b));
+            Console.WriteLine("mul= {0}", (a * b));
+            Console.WriteLine("div= {0}", (a / b));
         }
     }
 }

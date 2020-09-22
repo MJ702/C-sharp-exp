@@ -1,0 +1,6 @@
+C:\Users\kasod\RiderProjects\Csharp_progamming\exception_1\bin\Debug\exception_1.exe
+C:\Users\kasod\RiderProjects\Csharp_progamming\exception_1\bin\Debug\exception_1.pdb
+C:\Users\kasod\RiderProjects\Csharp_progamming\exception_1\obj\Debug\exception_1.csprojAssemblyReference.cache
+C:\Users\kasod\RiderProjects\Csharp_progamming\exception_1\obj\Debug\exception_1.csproj.CoreCompileInputs.cache
+C:\Users\kasod\RiderProjects\Csharp_progamming\exception_1\obj\Debug\exception_1.exe
+C:\Users\kasod\RiderProjects\Csharp_progamming\exception_1\obj\Debug\exception_1.pdb
