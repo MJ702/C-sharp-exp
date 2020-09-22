@@ -1,0 +1,6 @@
+C:\Users\kasod\RiderProjects\Csharp_progamming\exp1\bin\Debug\exp1.exe
+C:\Users\kasod\RiderProjects\Csharp_progamming\exp1\bin\Debug\exp1.pdb
+C:\Users\kasod\RiderProjects\Csharp_progamming\exp1\obj\Debug\exp1.csprojAssemblyReference.cache
+C:\Users\kasod\RiderProjects\Csharp_progamming\exp1\obj\Debug\exp1.csproj.CoreCompileInputs.cache
+C:\Users\kasod\RiderProjects\Csharp_progamming\exp1\obj\Debug\exp1.exe
+C:\Users\kasod\RiderProjects\Csharp_progamming\exp1\obj\Debug\exp1.pdb
